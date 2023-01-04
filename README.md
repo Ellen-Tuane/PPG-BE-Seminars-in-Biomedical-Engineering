@@ -6,7 +6,7 @@
 
 Final article: [Machine Learning in PDAC: Applications Analysis](https://github.com/Ellen-Tuane/PPG-BE-Seminars-in-Biomedical-Engineering/blob/main/Finals/Articles_Machine%20Learning%20in%20PDAC%20-%20Applications%20Analysis.pdf)
 
-Final Presentation: [Presentation Machine Learning in PDAC: Applications Analysis](https://github.com/Ellen-Tuane/PPG-BE-Seminars-in-Biomedical-Engineering/blob/main/Finals/Presentation.pdf
+Final Presentation: [Machine Learning in PDAC: Applications Analysis](https://github.com/Ellen-Tuane/PPG-BE-Seminars-in-Biomedical-Engineering/blob/main/Finals/Presentation.pdf)
 
 
 PPG-BE infos: [Post-Graduate Program in Biomedical Engineering](https://ppgeb.sites.unifesp.br/)
